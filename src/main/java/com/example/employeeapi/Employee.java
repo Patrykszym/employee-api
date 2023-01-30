@@ -1,6 +1,5 @@
 package com.example.employeeapi;
 
-
 import lombok.AccessLevel;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

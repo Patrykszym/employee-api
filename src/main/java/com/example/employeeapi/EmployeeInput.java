@@ -1,6 +1,5 @@
 package com.example.employeeapi;
 
-
 import lombok.Value;
 
 import javax.validation.constraints.Email;
